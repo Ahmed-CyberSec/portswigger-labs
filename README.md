@@ -12,11 +12,11 @@ Each section represents a main title for OWASP 10. Each of these sections contai
 ## 1.information disclouser
 ## lab: source code disclosure via backup files robots.txt
 
-  ##🖋️Description
+  🖋️**Description**
   
   In this lab I find  bug allowed  leaks sensitive code and information  from a backup file when I type robots.txt on last of URL  
   
-  ##🏃‍♀️Solution steps
+  🏃‍♀️**Solution steps**
   
   1.type /robots.txt in last of URL
   
@@ -26,7 +26,7 @@ Each section represents a main title for OWASP 10. Each of these sections contai
   
   4.you will see the post grea sql and the password at the bottom of the post grea sql
   
-  ##🖼️Screenshots
+  🖼️**Screenshots**
   
 ## A3:injection
   🖋️**Description**
