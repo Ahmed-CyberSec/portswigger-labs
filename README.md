@@ -28,10 +28,13 @@ Each section represents a main title for OWASP 10. Each of these sections contai
   
   🖼️**Screenshots**
   
+  open robots.txt
 ![فتح ملف robots.txt](images/When-I-opened-robots.jpg)
 
   
-![what in site backup file](images/Inside-backup-file-thumbnil.jpg)  
+what in site backup file
+
+![what in site backup file](images/Inside-backup-file.jpg)  
   (images/Find a password.jpg)
   
 ## A3:injection
