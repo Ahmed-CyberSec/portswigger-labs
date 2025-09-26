@@ -28,7 +28,7 @@ Each section represents a main title for OWASP 10. Each of these sections contai
   
   🖼️**Screenshots**
   
-  [![open robots txt file](images/When I opened robots.txt.jpg)](images/full-size-image.jpg)
+  [![open robots txt file] (images/When I opened robots.txt-thumbnail.jpg)](images/When I opened robots.txt-full-size-image.jpg)
   
   (images/Inside backup file.jpg)
   
