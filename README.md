@@ -27,7 +27,9 @@ Each section represents a main title for OWASP 10. Each of these sections contai
   4.you will see the post grea sql and the password at the bottom of the post grea sql
   
   🖼️**Screenshots**
-  
+  (images/When I opened robots.txt)
+  (images/Inside backup file)
+  (images/Find a password)
 ## A3:injection
   🖋️**Description**
   🏃‍♀️**Solution steps**
