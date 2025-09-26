@@ -31,7 +31,7 @@ Each section represents a main title for OWASP 10. Each of these sections contai
 ![فتح ملف robots.txt](images/When-I-opened-robots.jpg)
 
   
-![what in site backup file](images/Inside-backup-file.jpg)  
+![what in site backup file](images/Inside-backup-file-thumbnil.jpg)  
   (images/Find a password.jpg)
   
 ## A3:injection
