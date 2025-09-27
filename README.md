@@ -7,10 +7,10 @@ Each section represents a main title for OWASP 10. Each of these sections contai
   🖋️**Description**
   🏃‍♀️**Solution steps**
   🖼️**Screenshots**
-  
+
 ## A2:Cryptographic Faiures
 ## 1.information disclouser
-## lab: source code disclosure via backup files robots.txt
+## lab(1): source code disclosure via backup files robots.txt
 
   🖋️**Description**
   
@@ -36,7 +36,14 @@ what in site backup file
 
 ![what in site backup file](images/Inside-backup-file.jpg)  
   (images/Find a password.jpg)
-  
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+## lab(2):information disclosure on debug page
+
+ 🖋️**Description**
+  🏃‍♀️**Solution steps**
+  🖼️**Screenshots**
+
 ## A3:injection
   🖋️**Description**
   🏃‍♀️**Solution steps**
