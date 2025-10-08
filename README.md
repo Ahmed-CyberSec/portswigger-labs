@@ -45,7 +45,9 @@ what in site backup file
   🖼️**Screenshots**
 
 ## A3:injection
+
 #labe (1)OS command injection simple case 
+  
   🖋️**Description**
   
   OS injection its one of injection attack which is targeting  the command  that us in OS server 
@@ -54,9 +56,13 @@ what in site backup file
   🏃‍♀️**Solution steps**
   
   1.open burp suite
+
   2.accsess to  url labe from burp suite  Browser
+  
   3.go to any  prodact and open the the entercept on 
+  
   4.write ;whoam or uname  after proderct 
+  
   🖼️**Screenshots**
   
   
