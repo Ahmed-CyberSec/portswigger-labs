@@ -46,7 +46,7 @@ what in site backup file
 
 ## A3:injection
 
-##labe (1)OS command injection simple case 
+##labe (1) OS command injection simple case 
   
   🖋️**Description**
   
@@ -60,9 +60,13 @@ what in site backup file
   2.accsess to  url labe from burp suite  Browser
   
   3.go to any  prodact and open the the entercept on 
+  
   4.click right clike and choose send to repeater
+  
   4.write ;whoam or uname  after storeTD like storeId;uname or whoami 
+  
   5. click send 
+  
   6.look to the server respons
   
   🖼️**Screenshots**
